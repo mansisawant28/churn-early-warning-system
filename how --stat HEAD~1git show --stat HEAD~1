@@ -1,0 +1,8 @@
+[33mcommit a90423d4b7d1fe8028b1122317886451bbf7b4cc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: mansi <mansi.sawant28@gmail.com>
+Date:   Wed Mar 18 14:44:58 2026 -0500
+
+    Phase 1: data loading, cleaning, and 3-window target engineering
+
+ notebooks/01_data_setup.ipynb | 558 [32m++++++++++++++++++++++++++++++++++++++++++[m
+ 1 file changed, 558 insertions(+)
